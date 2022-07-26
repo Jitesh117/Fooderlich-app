@@ -70,6 +70,7 @@ class Card3 extends StatelessWidget {
                     onDeleted: () {
                       print('delete');
                     },
+                    
                   ),
                   Chip(
                     label: Text('Vegan',
